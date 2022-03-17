@@ -1,15 +1,3 @@
-# Return the Sum of Two Numbers:
-
-function addition(a, b) {
-    return a + b;
-}
-
-# Convert Minutes into Seconds
-
-fuction convert(minutes) {
-    return minutes * 60;
-}
-
 # Return the Next Number from the Integer Passed
 
 fuction addition(num) {
