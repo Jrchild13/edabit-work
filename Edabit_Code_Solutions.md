@@ -1,15 +1,3 @@
-# Return the Next Number from the Integer Passed
-
-fuction addition(num) {
-    return num + 1;
-}
-
-# Area of a Triangle
-
-function triArea(base, height) {
-    return (base * height) / 2;
-}
-
 # Convert Age to Days
 
 function calcAge(age) {
