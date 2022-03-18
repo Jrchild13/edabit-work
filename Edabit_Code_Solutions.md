@@ -1,12 +1,3 @@
-# Frames Per Second- Create a function that returns the number of frames shown in a given number of minutes for a certain FPS.
-
-public class Program
-{
-	public static int frames(int minutes, int fps)
-	{
-		return (minutes * fps) * 60;
-	}
-}
 # Two Makes Ten- Create a function that takes two arguments. Both arguments are integers, a and b. Return true if one of them is 10 or if their sum is 10.
 
 public class Program
