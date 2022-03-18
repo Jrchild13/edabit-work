@@ -1,15 +1,3 @@
-# Football Points- Create a function that takes the number of wins, draws and losses and calculates the number of points a football team has obtained so far.
-# -wins get 3 points
-# -draws get 1 point
-# -losses get 0 points
-
-public class Program
-{
-	public static int footballPoints(int wins, int draws, int losses)
-	{
-		return (wins * 3) + draws;
-	}
-}
 # Convert Hours and Minutes into Seconds- Write a function that takes two integers (hours, minutes), converts them to seconds, and adds them.
 
 public class Program
