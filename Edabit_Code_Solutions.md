@@ -1,13 +1,3 @@
-# Profitable Gamble- Create a function that takes three arguments prob, prize, pay and returns true if prob * prize > pay; otherwise return false.
-
-public class Program
-{
-	public static bool profitableGamble(double prob, double prize, double pay)
-	{
-		if (prob * prize > pay) {return true;}
-    return false;
-	}
-}
 # Boolean to String Conversion- Create a function that takes a boolean variable flag and returns it as a string.
 
 public class Program

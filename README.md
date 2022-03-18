@@ -19,3 +19,4 @@
 16. [Challenge 16](src/Challenge16.linq) - Are the Numbers Equal?
 17. [Challenge 17](src/Challenge17.linq) - Football Points
 18. [Challenge 18](src/Challenge18.linq) - Convert Hours and Minutes into Seconds
+19. [Challenge 19](src/Challenge19.linq) - Profitable Gamble
