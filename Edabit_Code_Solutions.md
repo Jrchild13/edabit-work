@@ -1,32 +1,3 @@
-# Return the Next Number from the Integer Passed- Create a function that takes a number as an argument, increments the number by +1 and returns the result.
-
-public class Program
-{
-	public static int Addition(int num)
-	{
-		return num + 1;
-	}
-}
-
-# Area of a Triangle- Write a function that takes the base and height of a triangle and return its area.
-
-public class Program
-{
-	public static int TriArea(double base, double height)
-	{
-		return (base * height) / 2;
-	}
-}
-
-# Convert Age to Days- Create a function that takes the age in years and returns the age in days.
-
-public class Program
-{
-	public static int calcAge(int age)
-	{
-		return age * 365;
-	}
-}
 # Return the First Element in an Array- Create a function that takes an array containing only numbers and return the first element.
 
 public class Program
