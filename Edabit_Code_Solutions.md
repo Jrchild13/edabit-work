@@ -1,12 +1,3 @@
-# Boolean to String Conversion- Create a function that takes a boolean variable flag and returns it as a string.
-
-public class Program
-{
-	public static string boolToString(bool true)
-	{
-		return true.ToString();
-	}
-}
 # Frames Per Second- Create a function that returns the number of frames shown in a given number of minutes for a certain FPS.
 
 public class Program
