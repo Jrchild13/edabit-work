@@ -1,29 +1,4 @@
-# Return the First Element in an Array- Create a function that takes an array containing only numbers and return the first element.
 
-public class Program
-{
-	public static Array[] getFirstValue(int[] arr)
-	{
-		return arr[0];
-	}
-}
-# Power Calculator- Create a function that takes voltage and current and returns the calculated power.
-
-public class Program
-{
-	public static int circuitPower(int voltage, int current)
-	{
-		return voltage * current;
-	}
-}
-# Convert Hours into Seconds- Write a function that converts hours into seconds.
-
-public class Program
-{
-	public static int howManySeconds(int hours)
-	{
-		return (hours * 60) * 60;
-	}
 }
 # Maximum Edge of a Triangle- Create a function that finds the maximum range of a triangle's third edge, where the side lengths are all integers.
 
