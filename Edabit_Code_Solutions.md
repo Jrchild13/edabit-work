@@ -1,12 +1,3 @@
-# Sum of Polygon Angles- Given an n-sided regular polygon n, return the total sum of internal angles (in degrees).
-
-public class Program
-{
-	public static double sumPolygon(int n)
-	{
-		return (n - 2) * 180;
-	}
-}
 # Basketball Points- You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value.
 
 public class Program
