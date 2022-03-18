@@ -14,3 +14,4 @@
 11. [Challenge 11](src/Challenge11.linq) - Sum of Polygon Angles
 12. [Challenge 12](src/Challenge12.linq) - Basketball Points
 13. [Challenge 13](src/Challenge13.linq) - Basic Variable Assignment
+14. [Challenge 14](src/Challenge14.linq) - Less Than 100?
