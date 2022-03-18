@@ -1,13 +1,3 @@
- # Multiple of 100- Create a function that takes an integer and returns true if it's divisible by 100, otherwise return false.
-
-public class Program
-{
-	public static bool divisible(int num)
-	{
-		if (num%100 == 0 ) { return true; }
-	return false;
-	}
-}
 # Divides Evenly- Given two integers, a and b, return true if a can be divided evenly by b. Return false otherwise.
 
 public class Program
