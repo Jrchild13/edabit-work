@@ -1,13 +1,3 @@
-# Check if an Integer is Divisible By Five- Create a function that returns true if an integer is evenly divisible by 5, and false otherwise.
-
-public class Program
-{
-	public static bool divisibleByFive(int n)
-	{
-		if (n%5 == 0 ) { return true; }
-	return false;
-	}
-}
  # Multiple of 100- Create a function that takes an integer and returns true if it's divisible by 100, otherwise return false.
 
 public class Program
@@ -16,15 +6,6 @@ public class Program
 	{
 		if (num%100 == 0 ) { return true; }
 	return false;
-	}
-}
-# Recursion: Length of a String- Write a function that returns the length of a string. Make your function recursive.
-
-public class Program
-{
-	public static int length(string str)
-	{
-		return Convert.ToInt32(str.Length);
 	}
 }
 # Divides Evenly- Given two integers, a and b, return true if a can be divided evenly by b. Return false otherwise.

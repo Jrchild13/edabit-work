@@ -25,3 +25,4 @@
 22. [Challenge 22](src/Challenge22.linq) - Two Makes Ten
 23. [Challenge 23](src/Challenge23.linq) - Let's Fuel Up!
 24. [Challenge 24](src/Challenge24.linq) - Compare Strings by Count of Characters
+25. [Challenge 25](src/Challenge25.linq) - Check if an Integer is Divisible By Five
