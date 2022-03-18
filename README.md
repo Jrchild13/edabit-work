@@ -23,3 +23,4 @@
 20. [Challenge 20](src/Challenge20.linq) - Boolean to String Conversion
 21. [Challenge 21](src/Challenge21.linq) - Frames Per Second
 22. [Challenge 22](src/Challenge22.linq) - Two Makes Ten
+23. [Challenge 23](src/Challenge23.linq) - Let's Fuel Up!
