@@ -1,12 +1,3 @@
-# Basketball Points- You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value.
-
-public class Program
-{
-	public static int points(int twoPointers, int threePointers)
-	{
-		return (twoPointers * 2) + (threePointers * 3);
-	}
-}
 # Basic Variable Assignment- A student learning JavaScript was trying to make a function. His code should concatenate a passed string name with string "Edabit" and store it in a variable called result. He needs your help to fix this code.
 
 public class Program
@@ -132,6 +123,7 @@ public class Program
     return false;
 	}
 }
+>>>>>>> 051785ab3e01d657de0ebd01fa867cf84f995550
 # Check if an Integer is Divisible By Five- Create a function that returns true if an integer is evenly divisible by 5, and false otherwise.
 
 public class Program

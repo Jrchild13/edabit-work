@@ -12,3 +12,4 @@
 9. [Challenge 9](src/Challenge9.linq) - Return Something to Me!
 10. [Challenge 10](src/Challenge10.linq) - Is the Number Less than or Equal to Zero?
 11. [Challenge 11](src/Challenge11.linq) - Sum of Polygon Angles
+12. [Challenge 12](src/Challenge12.linq) - Basketball Points
