@@ -1,13 +1,3 @@
-# Two Makes Ten- Create a function that takes two arguments. Both arguments are integers, a and b. Return true if one of them is 10 or if their sum is 10.
-
-public class Program
-{
-	public static bool makesTen(int a, int b)
-	{
-		if (a + b == 10 || a == 10 || b == 10) {return true;}
-    return false;
-	}
-}
 # Let's Fuel Up!- A vehicle needs 10 times the amount of fuel than the distance it travels. However, it must always carry a minimum of 100 fuel before setting off.Create a function which calculates the amount of fuel it needs, given the distance.
 
 public class Program
@@ -28,7 +18,6 @@ public class Program
     return false;
 	}
 }
->>>>>>> 051785ab3e01d657de0ebd01fa867cf84f995550
 # Check if an Integer is Divisible By Five- Create a function that returns true if an integer is evenly divisible by 5, and false otherwise.
 
 public class Program
