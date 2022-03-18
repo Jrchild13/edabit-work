@@ -1,13 +1,3 @@
-# Compare Strings by Count of Characters- Create a function that takes two strings as arguments and return either true or false depending on whether the total number of characters in the first string is equal to the total number of characters in the second string.
-
-public class Program
-{
-	public static bool comp(string str1, string str2)
-	{
-		if (str1.Length == str2.Length) { return true; }
-    return false;
-	}
-}
 # Check if an Integer is Divisible By Five- Create a function that returns true if an integer is evenly divisible by 5, and false otherwise.
 
 public class Program
