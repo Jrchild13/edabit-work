@@ -29,3 +29,4 @@
 26. [Challenge 26](src/Challenge26.linq) - Multiple of 100?
 27. [Challenge 27](src/Challenge27.linq) - Divides Evenly?
 28. [Challenge 28](src/Challenge28.linq) - Area of a Rectangle
+29. [Challenge 29](src/Challenge29.linq) - Concatenate First and Last Name into One String
