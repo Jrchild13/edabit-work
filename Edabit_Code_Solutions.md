@@ -1,14 +1,3 @@
-# Are the Numbers Equal?- Create a function that returns true when num1 is equal to num2; otherwise return false.
-
-public class Program
-{
-	public static bool isSameNum(int num1, int num2)
-	{
-		if (num1 == num2) {return true;}
-    return false;
-	}
-}
-
 # Football Points- Create a function that takes the number of wins, draws and losses and calculates the number of points a football team has obtained so far.
 # -wins get 3 points
 # -draws get 1 point
