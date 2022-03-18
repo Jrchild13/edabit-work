@@ -1,13 +1,3 @@
-# Less Than 100?- Given two numbers, return true if the sum of both numbers is less than 100. Otherwise return false.
-
-public class Program
-{
-	public static bool lessThan100(int a, int b)
-	{
-		if (a + b < 100) {return true;}
-    return false;
-	}
-}
 # The Farm Problem- In this challenge, a farmer is asking you to tell him how many legs can be counted among all his animals. The farmer breeds three species:
 
 # -chickens = 2 legs
