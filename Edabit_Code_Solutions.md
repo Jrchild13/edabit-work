@@ -1,12 +1,3 @@
-# Convert Hours and Minutes into Seconds- Write a function that takes two integers (hours, minutes), converts them to seconds, and adds them.
-
-public class Program
-{
-	public static double convert(int hours, int minutes)
-	{
-		return (hours * 3600) + (minutes * 60);
-	}
-}
 # Profitable Gamble- Create a function that takes three arguments prob, prize, pay and returns true if prob * prize > pay; otherwise return false.
 
 public class Program
