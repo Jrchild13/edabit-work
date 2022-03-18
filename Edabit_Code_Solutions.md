@@ -1,13 +1,3 @@
-# Divides Evenly- Given two integers, a and b, return true if a can be divided evenly by b. Return false otherwise.
-
-public class Program
-{
-	public static int dividesEvenly(int a, int b)
-	{
-		if (a%b == 0 ) { return true; }
-	return false;
-	}
-}
 # Area of a Rectangle- Create a function that calculates the area of a rectangle. If the arguments are invalid, your function must return -1.
 
 public class Program
