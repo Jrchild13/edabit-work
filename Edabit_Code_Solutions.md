@@ -1,13 +1,3 @@
-# Let's Fuel Up!- A vehicle needs 10 times the amount of fuel than the distance it travels. However, it must always carry a minimum of 100 fuel before setting off.Create a function which calculates the amount of fuel it needs, given the distance.
-
-public class Program
-{
-	public static double calculateFuel(int n)
-	{
-		if (n * 10 < 100) { return 100; }
-    return n * 10;
-	}
-}
 # Compare Strings by Count of Characters- Create a function that takes two strings as arguments and return either true or false depending on whether the total number of characters in the first string is equal to the total number of characters in the second string.
 
 public class Program
