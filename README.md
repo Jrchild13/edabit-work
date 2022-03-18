@@ -27,3 +27,4 @@
 24. [Challenge 24](src/Challenge24.linq) - Compare Strings by Count of Characters
 25. [Challenge 25](src/Challenge25.linq) - Check if an Integer is Divisible By Five
 26. [Challenge 26](src/Challenge26.linq) - Multiple of 100?
+27. [Challenge 27](src/Challenge27.linq) - Divides Evenly?
