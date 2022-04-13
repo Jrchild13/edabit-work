@@ -30,3 +30,14 @@
 27. [Challenge 27](src/Challenge27.linq) - Divides Evenly?
 28. [Challenge 28](src/Challenge28.linq) - Area of a Rectangle
 29. [Challenge 29](src/Challenge29.linq) - Concatenate First and Last Name into One String
+30. [Challenge 30](src/Challenge30.linq) - Array of Multiples
+31. [Challenge 31](src/Challenge31.linq) - Find the Largest Numbers in a Group of Arrays
+32. [Challenge 32](src/Challenge32.linq) - Power Ranger
+33. [Challenge 33](src/Challenge33.linq) - Consecutive Numbers
+34. [Challenge 34](src/Challenge34.linq) - Calculate the Mean
+35. [Challenge 35](src/Challenge35.linq) - Next Number Greater Than A and B and Divisible by B
+36. [Challenge 36](src/Challenge36.linq) - Among Us Imposter Formula
+37. [Challenge 37](src/Challenge37.linq) - Recursion: Sum
+38. [Challenge 38](src/Challenge389.linq) - Shapes With N Sides
+39. [Challenge 39](src/Challenge39.linq) - Eliminate Odd Numbers within an Array
+40. [Challenge 40](src/Challenge40.linq) - Is the Average of All Elements a Whole Number?
