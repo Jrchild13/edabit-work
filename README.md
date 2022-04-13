@@ -1,5 +1,4 @@
 # Csharp work completed on LINQpad from Edabit
->>>>>>> 2c0fe84f44f77a5e4ab71a5932b660023179b626
 
 1. [Challenge 1](src/Challenge1.linq) - Return the Sum of Two Numbers
 2. [Challenge 2](src/Challenge2.linq) - Convert Minutes into Seconds
