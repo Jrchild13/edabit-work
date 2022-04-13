@@ -41,3 +41,12 @@
 38. [Challenge 38](src/Challenge389.linq) - Shapes With N Sides
 39. [Challenge 39](src/Challenge39.linq) - Eliminate Odd Numbers within an Array
 40. [Challenge 40](src/Challenge40.linq) - Is the Average of All Elements a Whole Number?
+41. [Challenge 41](src/Challenge41.linq) - Repeating Letters N Times
+42. [Challenge 42](src/Challenge42.linq) - Return the Four Letter Strings
+43. [Challenge 43](src/Challenge43.linq) - Hashes and Pluses
+44. [Challenge 44](src/Challenge44.linq) - X's and O's, Knowbody Knows
+45. [Challenge 45](src/Challenge45.linq) - Make a Circle with OOP
+46. [Challenge 46](src/Challenge46.linq) - Is The String a Palindrome?
+47. [Challenge 47](src/Challenge47.linq) - Find the Index (Part#2)
+48. [Challenge 48](src/Challenge48.linq) - Remove Duplicates from an Array
+49. [Challenge 49](src/Challenge49.linq) - How Many Solutions Does This Quadratic Have?
