@@ -49,3 +49,14 @@
 47. [Challenge 47](src/Challenge47.linq) - Find the Index (Part#2)
 48. [Challenge 48](src/Challenge48.linq) - Remove Duplicates from an Array
 49. [Challenge 49](src/Challenge49.linq) - How Many Solutions Does This Quadratic Have?
+50. [Challenge 50](src/Challenge50.linq) - Equality of 3 Values
+51. [Challenge 51](src/Challenge51.linq) - Fraction Greater Than One
+52. [Challenge 52](src/Challenge52.linq) - Positive Count / Negative Sum
+53. [Challenge 53](src/Challenge53.linq) - Return the Sum of the Two Smallest Numbers
+54. [Challenge 54](src/Challenge54.linq) - Is The Number Symmetrical?
+55. [Challenge 55](src/Challenge55.linq) - A Circle and Two Squares
+56. [Challenge 56](src/Challenge56.linq) - GCD of Two Numbers
+57. [Challenge 57](src/Challenge57.linq) - Testing K^K == N?
+58. [Challenge 58](src/Challenge58.linq) - Perfect Number
+59. [Challenge 59](src/Challenge59.linq) - Is the Input Factorial of an Integer?
+60. [Challenge 60](src/Challenge60.linq) - Solve the Equation
